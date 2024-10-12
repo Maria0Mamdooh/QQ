@@ -5,8 +5,8 @@
 package quzie;
 
 /**
- *
- * @author dream
+ *Name: Maria M Alzahery
+ *ID: 445006784
  */
 public class Quzie {
 
@@ -28,5 +28,7 @@ int n = arr.length;
 int x = 4;
 int index = search(arr, n, x);
 if (index == -1)
-    System.out.println("Element is not present in the array");                        else                          System.out.println("Element found at position " + index);            }
+    System.out.println("Element is not present in the array");
+else                          
+    System.out.println("Element found at position " + index);            }
 }
